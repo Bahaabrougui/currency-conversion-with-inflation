@@ -21,7 +21,7 @@ python calculate_inflation_adjusted_income.py --path="<path>"
 ```
 
 ### Output
-Output will be in the console in the form of a table in the suggested output format. Below are the results.
+Output will be in the console in the form of a table in the suggested output format. Below are the results, expressed in USD.
 ```
 year                      2018       2019       2020       2021      2022
 customer_country_code                                                    
