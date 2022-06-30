@@ -1,14 +1,14 @@
 import argparse
 import datetime
+import dateutil
 
 import pandas as pd
 import numpy as np
-import dateutil
 import cpi
 from currency_converter import CurrencyConverter, ECB_URL, currency_converter
 
 
-# Pandas config param to display all dataframe columns
+# Pandas config param to display all dataframe columns in console
 pd.options.display.width = 0
 
 """
