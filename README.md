@@ -21,9 +21,14 @@ python calculate_inflation_adjusted_income.py --path="<path>"
 ```
 
 ### Output
-Output will be in console in the form of a table in the suggested output format. Below are the results.
-
-
+Output will be in the console in the form of a table in the suggested output format. Below are the results.
+```
+year                      2018       2019       2020       2021      2022
+customer_country_code                                                    
+DE                     4329.23  125797.27  131639.29  120486.96  19941.56
+GB                     3432.05   90277.03   95381.69   91339.37  14823.23
+US                     9363.47  259923.44  266515.40  247067.27  38998.44
+```
 
 
 ### Note
